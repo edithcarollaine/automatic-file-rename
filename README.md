@@ -23,5 +23,5 @@ After downloading, simply double-click on `app.exe` to open the interface.
 3. Run the script in terminal/cmd:
 
 ```bash
-python app.py
+python renomeador.py
 ```
