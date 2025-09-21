@@ -1,14 +1,11 @@
----
+📦 Requirements
 
-## 📦 Requirements
-- Python 3.8+ (if you want to run the original script).  
+- Python 3.8+ (if you want to run the original script).
 - Standard Python libraries:
 - `os`
 - `tkinter`
 
 ⚠️ No extra dependencies are required.
-
----
 
 ## ▶️ How to Run
 
