@@ -14,7 +14,7 @@
 Download the ready-to-use Windows executable:  
 👉 [**Download renomeador.exe**](https://www.dropbox.com/scl/fi/bzr8dqz0xgorobqoy91kd/renomeador.exe?rlkey=uig8aysrsje9kwnimws8zbuns&st=03ewwoun&dl=0)
 
-After downloading, simply double-click on `app.exe` to open the interface.
+After downloading, simply double-click on `renomeador.exe` to open the interface.
 
 ### 🔹 Option 2 — Run with Python
 
