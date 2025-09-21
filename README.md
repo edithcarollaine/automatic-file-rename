@@ -12,7 +12,7 @@
 ### 🔹 Option 1 — Use the Executable (Recommended)
 
 Download the ready-to-use Windows executable:  
-👉 [**Download app.exe**](https://www.dropbox.com/scl/fi/q7q1mtio9ds7ubcr19sfe/app.exe?rlkey=n04wlszw70iv9in0hoire7ves&st=fpb96ild&dl=0)
+👉 [**Download renomeador.exe**](https://www.dropbox.com/scl/fi/bzr8dqz0xgorobqoy91kd/renomeador.exe?rlkey=uig8aysrsje9kwnimws8zbuns&st=03ewwoun&dl=0)
 
 After downloading, simply double-click on `app.exe` to open the interface.
 
